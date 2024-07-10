@@ -11,10 +11,10 @@ pip install pandas
 pip install tensorflow
 pip install sklearn
 see requirments.txt
-```bash
+```
 
 ## Usage
 To run the model results for the pinn Bio-Z to BP estimation run:
 ```bash
 main.ipynb
-```bash
+```
