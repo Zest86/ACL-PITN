@@ -14,7 +14,7 @@ see requirments.txt
 ```
 
 ## Usage
-To run the model results for the pinn Bio-Z to BP estimation run:
+To run the model results for the PITN Bio-Z to BP estimation run:
 ```bash
 main.ipynb
 ```
