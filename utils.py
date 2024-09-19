@@ -1,7 +1,7 @@
 # -*- coding:utf-8 -*-
 """
 @Time: 2024/7/10 15:20
-@Auth: Rui Wang
+
 @File: models.py
 """
 import torch
