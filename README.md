@@ -1,7 +1,7 @@
 # This is an implementation of our paper
 
 
-# Adversarial contrastive learning based Physics-Informed Temporal Network
+# PITN: Physics-Informed Temporal Networks for Cuffless Blood Pressure Estimation
 Python code and data files for building an enhanced Bio-Z to BP model.
 
 ## Installation of Packages 
