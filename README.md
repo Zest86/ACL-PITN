@@ -14,7 +14,11 @@ see requirments.txt
 ```
 
 ## Usage
+
 To run the model results for the PITN Bio-Z to BP estimation run:
 ```bash
 main.ipynb
 ```
+
+## Fast Evaluation
+Download the PITN model weight [here](https://drive.google.com/file/d/12coyBtK4YQfHeVopRKsp1jkP3D6zbT0T/view?usp=sharing).
