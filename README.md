@@ -1,6 +1,3 @@
-# This is an implementation of our paper
-
-
 # PITN: Physics-Informed Temporal Networks for Cuffless Blood Pressure Estimation
 Python code and data files for building an enhanced Bio-Z to BP model.
 
@@ -21,4 +18,4 @@ main.ipynb
 ```
 
 ## Fast Evaluation
-Download the PITN model weight [here](https://drive.google.com/file/d/1_9USI6CYRoafcCqaDlHsz8UrnEyGHdq7/view?usp=drive_link).
+Download the PITN model weight [here](https://drive.google.com/file/d/1_9USI6CYRoafcCqaDlHsz8UrnEyGHdq7/view?usp=drive_link), predictions on the test set, and alongside the train/test loss [here](https://drive.google.com/drive/folders/1CsKXXC9m8eWhPiULBgDoP6lzFthdsnPW?usp=drive_link).
