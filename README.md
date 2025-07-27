@@ -7,7 +7,6 @@ pip install numpy
 pip install pandas
 pip install tensorflow
 pip install sklearn
-see requirements.txt
 ```
 
 ## Usage
@@ -23,4 +22,5 @@ Download the PITN model weight [here](https://drive.google.com/file/d/1_9USI6CYR
 ## Acknowledgements
 This code is partially adapted from:
 - [pinn-for-physiological-timeseries](https://github.com/TAMU-ESP/pinn-for-physiological-timeseries)
+
 We thank the original authors for their contributions.
