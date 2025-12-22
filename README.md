@@ -24,3 +24,16 @@ This code is partially adapted from:
 - [pinn-for-physiological-timeseries](https://github.com/TAMU-ESP/pinn-for-physiological-timeseries)
 
 We thank the original authors for their contributions.
+
+## Citation
+
+If you find this code or our paper useful for your research, please consider citing:
+
+```bibtex
+@article{wang2025pitn,
+  title={PITN: Physics-Informed Temporal Networks for Cuffless Blood Pressure Estimation},
+  author={Wang, R. and Qi, M. and Shao, Y. and others},
+  journal={IEEE Transactions on Mobile Computing},
+  year={2025},
+  publisher={IEEE}
+}
