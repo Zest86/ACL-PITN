@@ -46,7 +46,6 @@
 
 ## Results
 
-**Evaluation Setups:** We benchmarked 15 video-supporting MLLMs from diverse model families. For proprietary models, we include Gemini-1.5 and GPT-4o. For open-source models, we evaluate models from InternVL2, ViLA, LongViLA, LongVA, LLaVA-OneVision, and LLaVA-NeXT-Video. All evaluations are conducted in zero-shot settings with default prompts and greedy decoding for reproducibility. Tasks are evaluated using either accuracy for Multiple-Choice Answer (MCA) tasks or our proposed Mean Relative Accuracy (MRA) for Numerical Answer (NA) tasks.
 
 <div align="center">
     <img src="docs/results.png" width="80%"/>
